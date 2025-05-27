@@ -34,8 +34,7 @@
 ## 🗂️ **Projects List**
 | 프로젝트 이름 | 요약 설명 | 링크 |
 |---------------|----------|------|
-| ✍️ Handwriting OCR | 손글씨 이미지를 흑백/이진화 후 텍스트로 추출하여 `.txt`로 저장 | [GitHub 링크](https://github.com/ha-hyun/your-project-url) |
-| [🖋 HA-HYUN OCR](https://github.com/ha-hyun/your-project-url) | 손글씨 이미지를 OCR로 처리하고 텍스트 파일로 저장하는 프로젝트 | ...
+| ✍️ Handwriting OCR | 손글씨 이미지를 흑백 및 이진화 처리 후, OCR로 텍스트를 추출하여 `.txt` 파일로 저장하는 프로젝트 | [바로가기](https://github.com/ha-hyun/your-project-url) |
 
 
 ##🧑‍💻 **Contact Me**
