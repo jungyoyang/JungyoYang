@@ -28,15 +28,6 @@
 
 🗂️ **Projects List**
 
-| 프로젝트 이름                  | 요약 설명                                                                 | 기술 스택                                               | 개발 기간                  | 팀원 |
-|-------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------|----------------------------|------|
-| 🐳 Image-Optimizer            | Spring Boot 앱을 Docker로 패키징하여 Hub에 push/pull                     | VMware, Ubuntu, Docker, Docker Hub, Spring Boot         | 2025.05.19                 | 4명  |
-| 🖨️ Lonitoring                 | 서버 리소스 및 보안 이벤트 수집/저장으로 인프라 모니터링 시스템 구축     | VMware, Ubuntu, MobaXterm, Bash Shell                   | 2025.03.17                 | 4명  |
-| 🙌 손잡이                     | 시니어 맞춤 일자리 플랫폼 웹 서비스                                     | Java, JSP, MySQL, HTML, CSS, JavaScript                 | 2025.02.08 ~ 2025.02.10    | 4명  |
-| 🌐 ELK-Stack-on-VMware        | 각 VM에 Elasticsearch, Logstash, Kibana를 구성하여 ELK 시스템 구축       | Ubuntu, Elasticsearch, Logstash, Kibana                 | 2025.01.24                 | 4명  |
-| 📝 log-viewer                | Linux 로그를 수집/시각화하는 실시간 분석 시스템                         | Linux, Ubuntu, MySQL, Elasticsearch, Kibana, Logstash, Beats | 2025.01.21 ~ 2025.01.22 | 4명  |
-| 🎞 Woovie                    | Java + MySQL 기반 영화 리뷰 CRUD 시스템                                  | Java, MySQL                                             | 2025.01.10 ~ 2025.01.13    | 4명  |
-
 ---
 
 🧑‍💻 **Contact Me**
