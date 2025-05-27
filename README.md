@@ -1,4 +1,5 @@
 <img src="https://github.com/jungyoyang/JungyoYang/blob/main/banner.png?raw=true" alt="JUNGYO's github banner" />
+<object type="image/svg+xml" data="https://capsule-render.vercel.app/api?type=waving&color=0:DED8F7,100:C4DAF3&height=180&text=JUNGYO's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=45"></object>
 
 💡 **About Me**  
 안녕하세요! 저는 **웹 개발과 클라우드 인프라에 관심이 많은 개발자**입니다.  
