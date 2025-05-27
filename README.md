@@ -1,3 +1,5 @@
+<img src="https://github.com/jungyoyang/JungyoYang/blob/main/banner.png?raw=true" alt="JUNGYO's github banner" />
+
 💡 **About Me**  
 안녕하세요! 저는 **웹 개발과 클라우드 인프라에 관심이 많은 개발자**입니다.  
 문제 해결 능력을 기초로 삼아, 클린하고 신뢰할 수 있는 서비스를 만들기 위해 꾸준히 공부하고 프로젝트에 적용해왔습니다.  
