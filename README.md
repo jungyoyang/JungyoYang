@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DED8F7,100:C4DAF3&height=180&text=JUNGYO's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=45" alt="JUNGYO banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6C6F3,100:C7D7F5&height=180&text=JUNGYO's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=45" alt="JUNGYO banner" />
 
 
 💡 **About Me**  
