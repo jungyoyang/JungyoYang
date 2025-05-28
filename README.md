@@ -42,7 +42,7 @@
 
 
 ##🧑‍💻 **Contact Me**
-- 📬 Email: your.email@example.com  
+- 📬 Email: 2jungyo@naver.com
 - 🌐 Portfolio: [포트폴리오 링크 삽입]  
 - 📝 Blog: [블로그 주소 삽입]
 
