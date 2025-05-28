@@ -37,7 +37,7 @@
 | 프로젝트 이름 | 아키텍처 | 요약 | 기술 스택 | 개발 기간 | 팀원 |
 |---------------|-----------|------|------------|------------|------|
 | ✍️ [Handwriting OCR](https://github.com/HA-HYUN/Wedge-Potato) | ![OCR Architecture](https://github.com/JungyoYang/JungyoYang/blob/main/assets/ocr_architecture.png?raw=true) | 손글씨 이미지를 흑백 및 이진화 처리 후, OCR로 텍스트를 추출하여 `.txt` 파일로 저장하는 프로젝트 | Python, OpenCV, EasyOCR | 2023.12 | 4명 |
-| 🌍 [Abroad Anytip](https://abroadanytip.netlify.app/index.html) | ![anytip architecture](https://github.com/JungyoYang/JungyoYang/blob/main/assets/anytip_preview.png?raw=true) | 여행 전 필요한 정보(시차, 날씨, 전압, 비자 등)를 국가별로 정리해 보여주는 웹사이트. 흩어진 여행정보를 통합해 한 페이지에서 확인할 수 있도록 설계함 | HTML, CSS, JavaScript, Netlify | 2022.10 | 4명 |
+| 🌍 [Abroad Anytip](https://abroadanytip.netlify.app/index.html) | ![anytip architecture](https://github.com/JungyoYang/JungyoYang/blob/main/assets/abroad_architecture.png?raw=true) | 여행 전 필요한 정보(시차, 날씨, 전압, 비자 등)를 국가별로 정리해 보여주는 웹사이트. 흩어진 여행정보를 통합해 한 페이지에서 확인할 수 있도록 설계함 | HTML, CSS, JavaScript, Netlify | 2022.10 | 4명 |
 
 
 
