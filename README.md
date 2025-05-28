@@ -36,7 +36,7 @@
 
 | 프로젝트 이름 | 아키텍처 | 요약 | 기술 스택 | 개발 기간 | 팀원 |
 |---------------|-----------|------|------------|------------|------|
-| ✍️ [Handwriting OCR](https://github.com/HA-HYUN/Wedge-Potato) | ![OCR Architecture](https://github.com/JungyoYang/JungyoYang/blob/main/assets/ocr_architecture.png?raw=true) | 손글씨 이미지를 흑백 및 이진화 처리 후, OCR로 텍스트를 추출하여 `.txt` 파일로 저장하는 프로젝트 | Python, OpenCV, EasyOCR | 2022.06 | 4명 |
+| ✍️ [Handwriting OCR](https://github.com/HA-HYUN/Wedge-Potato) | ![OCR Architecture](https://github.com/JungyoYang/JungyoYang/blob/main/assets/ocr_architecture.png?raw=true) | 손글씨 이미지를 흑백 및 이진화 처리 후, OCR로 텍스트를 추출하여 `.txt` 파일로 저장하는 프로젝트 | Python, OpenCV, EasyOCR | 2023.12 | 4명 |
 
 
 
