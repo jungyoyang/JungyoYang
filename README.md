@@ -12,7 +12,7 @@
 
 ## 🎓 **Activities & Learning**  
 
-- 컴퓨터공학 관련 전공 수료  
+- 소프트웨어학과 전공 수료  
 - 오픈소스 프로젝트 및 협업 경험  
 - 알고리즘 및 문제 해결 기법 학습  
 - AWS를 이용한 웹 서비스 배포 경험
@@ -27,7 +27,7 @@
 | Algorithms & Data      | 자료구조, 알고리즘, 문제해결기법                              |
 | Web Frontend           | HTML5, CSS3                                                    |
 | Backend                | Node.js, Express.js                                            |
-| Infrastructure         | AWS (EC2, S3 등), Linux                                        |
+| Infrastructure         | AWS (EC2, S3 등)                                             |
 | Tools & Versioning     | Git, GitHub                                                    |
 
 
