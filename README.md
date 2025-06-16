@@ -47,3 +47,6 @@
 - 📬 Email: 2jungyo@naver.com
 - 🌐 Portfolio: [포트폴리오 링크 삽입]  
 - 📝 Blog: https://ssable.tistory.com
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=jungyoyang&layout=compact
+
