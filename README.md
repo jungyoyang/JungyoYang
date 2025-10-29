@@ -10,7 +10,10 @@
 
 ## 🎓 **Activities & Learning**  
 
-
+- 가천대학교 소프트웨어학과 전공
+- 오픈소스 프로젝트 및 협업 경험 
+- 알고리즘 및 문제 해결 기법 학습  
+- AWS를 이용한 웹 서비스 배포 경험
 
 
 
@@ -30,4 +33,3 @@
 - 📝 Blog: https://ssable.tistory.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyoyang&layout=compact)
-
