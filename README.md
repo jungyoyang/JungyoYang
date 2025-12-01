@@ -32,4 +32,4 @@
 - 📬 Email: 2jungyo@naver.com
 - 📝 Blog: https://ssable.tistory.com
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jungyoyang&layout=compact&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyoyang&layout=compact)
