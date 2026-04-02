@@ -21,5 +21,9 @@
 
 
 
-
 ![Jungyoyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyoyang&show_icons=true)
+
+
+  ## 🧑‍💻 **Contact Me**
+  - 📬 Email: 2jungyo@naver.com
+  - 📝 Blog: https://ssable.tistory.com
